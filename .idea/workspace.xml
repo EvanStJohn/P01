@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b9fe99-7388-4dab-bde1-44909fce48c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
@@ -48,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bounty" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../L06" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,7 +79,10 @@
       <option name="presentableId" value="Default" />
       <updated>1571333505496</updated>
       <workItem from="1571333507107" duration="1038000" />
-      <workItem from="1571677705913" duration="1829000" />
+      <workItem from="1571677705913" duration="1966000" />
+      <workItem from="1571703094180" duration="12000" />
+      <workItem from="1571765947513" duration="636000" />
+      <workItem from="1571849703101" duration="2343000" />
     </task>
     <servers />
   </component>
@@ -92,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
