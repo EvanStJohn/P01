@@ -13,6 +13,11 @@
   <component name="ChangeListManager">
     <list default="true" id="32b9fe99-7388-4dab-bde1-44909fce48c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/P01.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/P01.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/P01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/P01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../L06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,6 +90,7 @@
       <workItem from="1571765947513" duration="636000" />
       <workItem from="1571849703101" duration="2343000" />
       <workItem from="1571894728151" duration="1555000" />
+      <workItem from="1571936170529" duration="502000" />
     </task>
     <servers />
   </component>
