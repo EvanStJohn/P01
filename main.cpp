@@ -50,6 +50,7 @@ void StartWars::input(vector<warrior> *clones)
         cout << "what is their lifespan" << endl;
         cin >> clones->at(i).timeCounter;
     }
+
 }
 
 void StartWars::lifespan(vector<warrior> *clones)
@@ -57,19 +58,20 @@ void StartWars::lifespan(vector<warrior> *clones)
     int i = 0;
     while (clones->size() != 0)
     {
-        i = clones->size();
-
-        for (; i < clones->size(); ++i)
+        for (i = clones->size(); i < clones->size(); i++)
         {
-            cout << "clone " << clones->at(i).id << clones->at(i).name <<
-            " has this much time left:" << clones->at(i).timeCounter << endl;
-
+            cout << "Code here is not being reached!!" << endl;
             clones->at(i).timeCounter--;
             if(clones->at(i).timeCounter <= 0){
+                cout << "Clone " << clones->at(i).id << clones->at(i).name <<
+                                 " has this much time left has perished." << endl;
                 //this clone has died
                 //delete them
+                clones->erase(clones->begin() + i);
             }else{
                 //still alive
+                cout << "clone " << clones->at(i).id << clones->at(i).name <<
+                     " has this much time left:" << clones->at(i).timeCounter << endl;
             }
 
         }
